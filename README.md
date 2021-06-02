@@ -1,4 +1,6 @@
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/rancher/k3os)
 
+[![CIS](https://app.demo.soluble.cloud/api/v1/public/badges/1210b987-de8d-4b0d-8f1e-9d51221af8d1.svg)](https://app.demo.soluble.cloud/repos/details/github.com/soluble-ai/k3os)  [![IaC](https://app.demo.soluble.cloud/api/v1/public/badges/781f25d1-b4c5-423d-b475-99460e83dd61.svg)](https://app.demo.soluble.cloud/repos/details/github.com/soluble-ai/k3os)  
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/rancher/k3os)
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/rancher/k3os?include_prereleases&label=release&sort=semver)
 
